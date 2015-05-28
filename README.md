@@ -1,4 +1,6 @@
-# node-xcode
+# node-xcode-fork
+
+fork of https://github.com/alunny/node-xcode.git
 
 > parser/toolkit for xcodeproj project files
 

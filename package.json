@@ -1,11 +1,11 @@
 {
   "author": "Andrew Lunny <alunny@gmail.com>",
-  "name": "xcode",
+  "name": "xcode-fork",
   "description": "parser for xcodeproj/project.pbxproj files",
-  "version": "0.6.7",
+  "version": "0.6.8",
   "main":"index.js",
   "repository": {
-    "url": "https://github.com/alunny/node-xcode.git"
+    "url": "https://github.com/peutetre/node-xcode.git"
   },
   "engines": {
     "node": ">=0.6.7"
